@@ -1,2 +1,2 @@
 python-telegram-bot==20.3
-instagram_profile_downloader @ git+https://github.com/YOUR_USERNAME/instagram_profile_downloader.git
+instagram_profile_downloader @ git+https://github.com/spyguyrajat/ig-dl-bot.git
